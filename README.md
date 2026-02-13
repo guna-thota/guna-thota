@@ -1,16 +1,45 @@
-## Hi there 👋
+# Guna Durga Prashanth Thota
 
-<!--
-**guna-thota/guna-thota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer | Distributed Systems | Cloud & Automation
 
-Here are some ideas to get you started:
+I build scalable data pipelines, design resilient infrastructure, and solve real-world system reliability problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Work On
+
+- Designing end-to-end data pipelines (ETL/ELT)
+- Distributed systems & performance optimization
+- Cloud-native architectures (AWS/GCP)
+- Infrastructure automation & monitoring
+- System reliability and observability
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, SQL, Java  
+**Data:** Spark, Pandas, ETL Pipelines  
+**Cloud:** AWS, GCP  
+**DevOps:** Docker, Linux, CI/CD  
+**Databases:** PostgreSQL, MySQL  
+**Concepts:** Distributed Systems, System Design, Data Modeling, Reliability Engineering
+
+---
+
+## 📊 Current Focus
+
+- Building scalable data systems  
+- Deepening expertise in system design & distributed architectures  
+- Developing Arthaeon (stealth mode)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/gthota27]  
+Email: [gunaprashant@gmail.com]
+
+---
+
+> I believe good systems are not just built — they are engineered for scale, resilience, and clarity.
